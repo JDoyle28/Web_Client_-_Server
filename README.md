@@ -1,5 +1,5 @@
 # Web_Client_-_Server
-Using TCP sockets we launch a local python server on port 1024, then a client socket can connect and communicate via HTTP
+Using TCP sockets we launch a local python server on port 1024, then a client socket can connect and communicate via HTTP                         
 This server is also able to handle three telnet clients simultaneously, via threading
 
 Usage:
